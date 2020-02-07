@@ -1,7 +1,8 @@
 # Clifford Chong
 
-| Age | 28 |
+
 | ----- | ---- |
+| Age | 28 |
 | Ethnicity | Korean |
 | Nationality | American |
 | Eye Color | Dark brown |
