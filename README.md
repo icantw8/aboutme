@@ -1,6 +1,6 @@
 # Clifford Chong
 
-| About me |
+| About | me |
 | ---- | ---- |
 | Age | 28 |
 | Ethnicity | Korean |
